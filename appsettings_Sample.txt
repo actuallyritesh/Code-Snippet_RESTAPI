@@ -1,0 +1,16 @@
+// change the values and rename this file to appsettings.json
+{
+    "Logging": {
+      "LogLevel": {
+        "Default": "Information",
+        "Microsoft": "Warning",
+        "Microsoft.Hosting.Lifetime": "Information"
+      }
+    },
+    "AllowedHosts": "*",
+    "ConnectionStrings":
+    {
+      "restapiConnection" : "Server=YOUR_SERVER_NAME,YOUR_PORT;Initial Catalog=YOUR_DB_NAME;User ID=YOUR_ID;Password=YOUR_PASSWORD;"
+    }
+  }
+  
